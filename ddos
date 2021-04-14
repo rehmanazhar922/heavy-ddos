@@ -1,2 +1,2 @@
-python2 ~/tools/ddos.py
+sudo python2 ~/tools/ddos.py
 
